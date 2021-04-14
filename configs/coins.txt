@@ -1,6 +1,6 @@
 BTC
 ETH
-XRP
+TRX
 LTC
 BCH
 EOS
